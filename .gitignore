@@ -73,3 +73,13 @@ GameExtendBaseSystem/Temp/
 GameExtendBaseSystem/UserSettings/
 
 GameExtendBaseSystem/obj/
+
+CDPipeline/Library/
+
+CDPipeline/Logs/
+
+CDPipeline/Temp/
+
+CDPipeline/Packages/
+
+CDPipeline/UserSettings/
