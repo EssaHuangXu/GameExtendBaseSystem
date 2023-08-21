@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\Assembly-CSharp.csproj": {}
+    "D:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\Assembly-CSharp.csproj": {}
   },
   "projects": {
-    "d:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\Assembly-CSharp.csproj": {
+    "D:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\Assembly-CSharp.csproj",
+        "projectUniqueName": "D:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\Assembly-CSharp.csproj",
         "projectName": "Assembly-CSharp",
-        "projectPath": "d:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\Assembly-CSharp.csproj",
+        "projectPath": "D:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\Assembly-CSharp.csproj",
         "packagesPath": "C:\\Users\\Essa\\.nuget\\packages\\",
-        "outputPath": "d:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\obj\\",
+        "outputPath": "D:\\GameProject\\Unity\\GameEx\\GameExtendBaseSystem\\CDPipeline\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Application\\VisualStudioShared\\Shared\\NuGetPackages"
