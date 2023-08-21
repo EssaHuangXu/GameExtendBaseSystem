@@ -8,7 +8,7 @@ namespace CDPipeline
     {
         protected override RenderPipeline CreatePipeline()
         {
-            return new CustomDesignRenderPipeline(new CameraRenderer());
+            return new CustomDesignRenderPipeline();
         }
     }
 }

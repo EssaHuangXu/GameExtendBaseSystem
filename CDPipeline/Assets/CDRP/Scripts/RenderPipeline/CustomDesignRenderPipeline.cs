@@ -7,11 +7,9 @@ namespace CDPipeline
     {
         protected ICameraRenderer renderer;
 
-        public CustomDesignRenderPipeline(){ }
-
-        public CustomDesignRenderPipeline(ICameraRenderer renderer)
+        public CustomDesignRenderPipeline()
         {
-            this.renderer = renderer;
+            renderer = new CameraRenderer();
         }
 
         protected override void Render( ScriptableRenderContext context, Camera[] cameras )
